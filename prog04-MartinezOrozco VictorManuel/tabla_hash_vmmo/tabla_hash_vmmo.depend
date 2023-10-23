@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683594599 source:c:\users\vmmo2\onedrive\documentos\victor\estructura de datos\tabla_hash_vmmo\main.cpp
+	<iostream>
+	"registro.hpp"
+	"tabla_indices.hpp"
+
+1683594658 c:\users\vmmo2\onedrive\documentos\victor\estructura de datos\tabla_hash_vmmo\registro.hpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1683594260 c:\users\vmmo2\onedrive\documentos\victor\estructura de datos\tabla_hash_vmmo\tabla_indices.hpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"registro.hpp"
+
